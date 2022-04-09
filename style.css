@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40vh;
+    background: hotpink;
+}
+
+#countdownTimer{
+    color: white;
+    font-size: 5rem;
+    font-weight: 800;
+    font-family: sans-serif;
+}
